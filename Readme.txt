@@ -1,6 +1,6 @@
 Steps to check:
 1. Prior to execute test script, ensure the following:
-- selenium referenced libraries are downlaoded and are added as external JARs under "Configured Build Path".
+- selenium referenced libraries are downloaded and added as external JARs under "Configured Build Path".
 - Login once to https://todo-list-login.firebaseapp.com/#!/ using below credentials, and authorize access by Todo App, then logout.
 Username: tiongss
 Password: cz98hb25jd
